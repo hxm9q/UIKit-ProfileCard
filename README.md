@@ -23,4 +23,4 @@ SimpleProfileCard — это базовое iOS-приложение, напис
 
 ## 📱 Скриншоты
 
-> ![Preview](images/image1)
+> ![Preview](Images/image1.png)
