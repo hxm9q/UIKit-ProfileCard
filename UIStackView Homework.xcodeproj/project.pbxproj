@@ -21,6 +21,11 @@
 /* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
+		DB13588C2DD24B9500A5ADF4 /* Images */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = Images;
+			sourceTree = "<group>";
+		};
 		DB9E2FD82DD22C86003A2AA0 /* UIStackView Homework */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
@@ -45,6 +50,7 @@
 		DB9E2FCD2DD22C86003A2AA0 = {
 			isa = PBXGroup;
 			children = (
+				DB13588C2DD24B9500A5ADF4 /* Images */,
 				DB9E2FD82DD22C86003A2AA0 /* UIStackView Homework */,
 				DB9E2FD72DD22C86003A2AA0 /* Products */,
 			);
@@ -74,6 +80,7 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
+				DB13588C2DD24B9500A5ADF4 /* Images */,
 				DB9E2FD82DD22C86003A2AA0 /* UIStackView Homework */,
 			);
 			name = "UIStackView Homework";
