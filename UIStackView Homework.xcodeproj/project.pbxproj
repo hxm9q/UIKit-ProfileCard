@@ -7,32 +7,32 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		DB2B99FF2DC23604007A6EA8 /* UITextField Homework.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "UITextField Homework.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		DB9E2FD62DD22C86003A2AA0 /* UIStackView Homework.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "UIStackView Homework.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		DB2B9A112DC23606007A6EA8 /* Exceptions for "UITextField Homework" folder in "UITextField Homework" target */ = {
+		DB9E2FE82DD22C87003A2AA0 /* Exceptions for "UIStackView Homework" folder in "UIStackView Homework" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				Info.plist,
 			);
-			target = DB2B99FE2DC23604007A6EA8 /* UITextField Homework */;
+			target = DB9E2FD52DD22C86003A2AA0 /* UIStackView Homework */;
 		};
 /* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		DB2B9A012DC23604007A6EA8 /* UITextField Homework */ = {
+		DB9E2FD82DD22C86003A2AA0 /* UIStackView Homework */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
-				DB2B9A112DC23606007A6EA8 /* Exceptions for "UITextField Homework" folder in "UITextField Homework" target */,
+				DB9E2FE82DD22C87003A2AA0 /* Exceptions for "UIStackView Homework" folder in "UIStackView Homework" target */,
 			);
-			path = "UITextField Homework";
+			path = "UIStackView Homework";
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		DB2B99FC2DC23604007A6EA8 /* Frameworks */ = {
+		DB9E2FD32DD22C86003A2AA0 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -42,18 +42,18 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		DB2B99F62DC23604007A6EA8 = {
+		DB9E2FCD2DD22C86003A2AA0 = {
 			isa = PBXGroup;
 			children = (
-				DB2B9A012DC23604007A6EA8 /* UITextField Homework */,
-				DB2B9A002DC23604007A6EA8 /* Products */,
+				DB9E2FD82DD22C86003A2AA0 /* UIStackView Homework */,
+				DB9E2FD72DD22C86003A2AA0 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		DB2B9A002DC23604007A6EA8 /* Products */ = {
+		DB9E2FD72DD22C86003A2AA0 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				DB2B99FF2DC23604007A6EA8 /* UITextField Homework.app */,
+				DB9E2FD62DD22C86003A2AA0 /* UIStackView Homework.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -61,64 +61,64 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		DB2B99FE2DC23604007A6EA8 /* UITextField Homework */ = {
+		DB9E2FD52DD22C86003A2AA0 /* UIStackView Homework */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = DB2B9A122DC23606007A6EA8 /* Build configuration list for PBXNativeTarget "UITextField Homework" */;
+			buildConfigurationList = DB9E2FE92DD22C87003A2AA0 /* Build configuration list for PBXNativeTarget "UIStackView Homework" */;
 			buildPhases = (
-				DB2B99FB2DC23604007A6EA8 /* Sources */,
-				DB2B99FC2DC23604007A6EA8 /* Frameworks */,
-				DB2B99FD2DC23604007A6EA8 /* Resources */,
+				DB9E2FD22DD22C86003A2AA0 /* Sources */,
+				DB9E2FD32DD22C86003A2AA0 /* Frameworks */,
+				DB9E2FD42DD22C86003A2AA0 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				DB2B9A012DC23604007A6EA8 /* UITextField Homework */,
+				DB9E2FD82DD22C86003A2AA0 /* UIStackView Homework */,
 			);
-			name = "UITextField Homework";
+			name = "UIStackView Homework";
 			packageProductDependencies = (
 			);
-			productName = "UITextField Homework";
-			productReference = DB2B99FF2DC23604007A6EA8 /* UITextField Homework.app */;
+			productName = "UIStackView Homework";
+			productReference = DB9E2FD62DD22C86003A2AA0 /* UIStackView Homework.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		DB2B99F72DC23604007A6EA8 /* Project object */ = {
+		DB9E2FCE2DD22C86003A2AA0 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1630;
 				LastUpgradeCheck = 1630;
 				TargetAttributes = {
-					DB2B99FE2DC23604007A6EA8 = {
+					DB9E2FD52DD22C86003A2AA0 = {
 						CreatedOnToolsVersion = 16.3;
 					};
 				};
 			};
-			buildConfigurationList = DB2B99FA2DC23604007A6EA8 /* Build configuration list for PBXProject "UITextField Homework" */;
+			buildConfigurationList = DB9E2FD12DD22C86003A2AA0 /* Build configuration list for PBXProject "UIStackView Homework" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
 			);
-			mainGroup = DB2B99F62DC23604007A6EA8;
+			mainGroup = DB9E2FCD2DD22C86003A2AA0;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = DB2B9A002DC23604007A6EA8 /* Products */;
+			productRefGroup = DB9E2FD72DD22C86003A2AA0 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				DB2B99FE2DC23604007A6EA8 /* UITextField Homework */,
+				DB9E2FD52DD22C86003A2AA0 /* UIStackView Homework */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		DB2B99FD2DC23604007A6EA8 /* Resources */ = {
+		DB9E2FD42DD22C86003A2AA0 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -128,7 +128,7 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		DB2B99FB2DC23604007A6EA8 /* Sources */ = {
+		DB9E2FD22DD22C86003A2AA0 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -138,7 +138,7 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		DB2B9A132DC23606007A6EA8 /* Debug */ = {
+		DB9E2FEA2DD22C87003A2AA0 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -147,7 +147,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = 96X777WFT2;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = "UITextField Homework/Info.plist";
+				INFOPLIST_FILE = "UIStackView Homework/Info.plist";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -158,7 +158,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "hxm9q.UITextField-Homework";
+				PRODUCT_BUNDLE_IDENTIFIER = "hxm9q.UIStackView-Homework";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
 				SUPPORTS_MACCATALYST = NO;
@@ -170,7 +170,7 @@
 			};
 			name = Debug;
 		};
-		DB2B9A142DC23606007A6EA8 /* Release */ = {
+		DB9E2FEB2DD22C87003A2AA0 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -179,7 +179,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = 96X777WFT2;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = "UITextField Homework/Info.plist";
+				INFOPLIST_FILE = "UIStackView Homework/Info.plist";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -190,7 +190,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "hxm9q.UITextField-Homework";
+				PRODUCT_BUNDLE_IDENTIFIER = "hxm9q.UIStackView-Homework";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
 				SUPPORTS_MACCATALYST = NO;
@@ -202,7 +202,7 @@
 			};
 			name = Release;
 		};
-		DB2B9A152DC23606007A6EA8 /* Debug */ = {
+		DB9E2FEC2DD22C87003A2AA0 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -266,7 +266,7 @@
 			};
 			name = Debug;
 		};
-		DB2B9A162DC23606007A6EA8 /* Release */ = {
+		DB9E2FED2DD22C87003A2AA0 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -326,25 +326,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		DB2B99FA2DC23604007A6EA8 /* Build configuration list for PBXProject "UITextField Homework" */ = {
+		DB9E2FD12DD22C86003A2AA0 /* Build configuration list for PBXProject "UIStackView Homework" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				DB2B9A152DC23606007A6EA8 /* Debug */,
-				DB2B9A162DC23606007A6EA8 /* Release */,
+				DB9E2FEC2DD22C87003A2AA0 /* Debug */,
+				DB9E2FED2DD22C87003A2AA0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		DB2B9A122DC23606007A6EA8 /* Build configuration list for PBXNativeTarget "UITextField Homework" */ = {
+		DB9E2FE92DD22C87003A2AA0 /* Build configuration list for PBXNativeTarget "UIStackView Homework" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				DB2B9A132DC23606007A6EA8 /* Debug */,
-				DB2B9A142DC23606007A6EA8 /* Release */,
+				DB9E2FEA2DD22C87003A2AA0 /* Debug */,
+				DB9E2FEB2DD22C87003A2AA0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = DB2B99F72DC23604007A6EA8 /* Project object */;
+	rootObject = DB9E2FCE2DD22C86003A2AA0 /* Project object */;
 }

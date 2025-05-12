@@ -1,8 +1,8 @@
 //
 //  SceneDelegate.swift
-//  UITextField Homework
+//  UIStackView Homework
 //
-//  Created by  Антон Шадрин on 30.04.2025.
+//  Created by  Антон Шадрин on 12.05.2025.
 //
 
 import UIKit
